@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Note.png"><SubTexture name="Note Down0000" x="1103" y="0" width="545" height="867" frameX="-4" frameY="0" frameWidth="553" frameHeight="867" />
+<SubTexture name="Note Down0001" x="0" y="1755" width="553" height="709" frameX="0" frameY="-158" frameWidth="553" frameHeight="867" />
+<SubTexture name="Note Down0002" x="1105" y="1755" width="552" height="591" frameX="0" frameY="-276" frameWidth="553" frameHeight="867" />
+<SubTexture name="Note Down0003" x="2235" y="729" width="478" height="572" frameX="-37" frameY="-295" frameWidth="553" frameHeight="867" />
+<SubTexture name="Note Idle0000" x="1103" y="0" width="545" height="867" frameX="0" frameY="0" frameWidth="552" frameHeight="867" />
+<SubTexture name="Note Idle0001" x="2235" y="0" width="547" height="729" frameX="0" frameY="-138" frameWidth="552" frameHeight="867" />
+<SubTexture name="Note Idle0002" x="553" y="1755" width="552" height="592" frameX="0" frameY="-275" frameWidth="552" frameHeight="867" />
+<SubTexture name="Note Left0000" x="1103" y="0" width="545" height="867" frameX="-133" frameY="0" frameWidth="811" frameHeight="867" />
+<SubTexture name="Note Left0001" x="644" y="888" width="642" height="862" frameX="-84" frameY="-5" frameWidth="811" frameHeight="867" />
+<SubTexture name="Note Left0002" x="1286" y="888" width="808" height="849" frameX="0" frameY="-18" frameWidth="811" frameHeight="867" />
+<SubTexture name="Note Right0000" x="1103" y="0" width="545" height="867" frameX="-21" frameY="-21" frameWidth="588" frameHeight="888" />
+<SubTexture name="Note Right0001" x="1648" y="0" width="587" height="867" frameX="0" frameY="-21" frameWidth="588" frameHeight="888" />
+<SubTexture name="Note Right0002" x="0" y="0" width="588" height="888" frameX="0" frameY="0" frameWidth="588" frameHeight="888" />
+<SubTexture name="Note Up0000" x="1103" y="0" width="545" height="867" frameX="-49" frameY="-5" frameWidth="644" frameHeight="872" />
+<SubTexture name="Note Up0001" x="0" y="888" width="644" height="867" frameX="0" frameY="-5" frameWidth="644" frameHeight="872" />
+<SubTexture name="Note Up0002" x="588" y="0" width="515" height="872" frameX="-64" frameY="0" frameWidth="644" frameHeight="872" />
+</TextureAtlas>
