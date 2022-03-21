@@ -2,7 +2,7 @@
 	"songs": [
 		[
 			"Nacreous Snowmelt",
-			"dad",
+			"note",
 			[
 				146,
 				113,
@@ -11,7 +11,16 @@
 		],
 		[
 			"Quaoar",
-			"dad",
+			"note",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dilf",
+			"note",
 			[
 				146,
 				113,
